@@ -23,7 +23,7 @@ function App() {
     if (viewer.current) {
       WebViewer(
         {
-          path: '/node_modules/@pdftron/webviewer/public',
+          path: '/webviewer/lib',
           licenseKey: 'demo:1744368012314:613741310300000000e0217023d0dda15073f23b722b9372c9eae1788a',
           fullAPI: true,
           enableOfficeEditing: true,
