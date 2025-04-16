@@ -1,2 +1,0 @@
-# pdfManager
-application pdf manager
